@@ -1,0 +1,12 @@
+name: huggleapi
+services:
+  huggleapi:
+    public: true
+    image: emekaboris/hugglecare:latest
+    build: .
+    replicas: 1
+    ports:
+      - 8080
+    resources:
+      cpu: 2000m
+      memory: 5Gi
