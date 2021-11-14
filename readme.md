@@ -19,7 +19,8 @@ The API code can be found in the `master` branch
 
 ### postman
 
-['img.png']()
+![alt text](img.png "Title")
+
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/cdfa20546efe00aa4b07?action=collection%2Fimport)
 
