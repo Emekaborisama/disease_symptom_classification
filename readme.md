@@ -14,6 +14,8 @@
 ### Training Code
 The training files can be found in the `training_files` branch
 
+https://github.com/Emekaborisama/disease_symptom_classification/tree/training_files
+
 ### API Code
 The API code can be found in the `master` branch
 
